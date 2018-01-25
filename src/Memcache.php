@@ -1,6 +1,6 @@
 <?php
 
-namespace Tian;
+namespace Aw\Cache;
 
 class Memcache implements ICache {
 	protected $link;

@@ -1,5 +1,6 @@
 <?php
-namespace Tian;
+namespace Aw\Cache;
+
 interface ICache
 {
 	/**
